@@ -2,6 +2,6 @@
 
 subscribe to me on YouTube
 
-'''javascript
+```javascript
 console.log('hello world');
-'''
+```
